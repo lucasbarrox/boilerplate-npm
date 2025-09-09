@@ -1,6 +1,7 @@
 {
-	"author": "Lucas Barros",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Lucas Barros",
+	"description": "A project to learn how to manage packages with npm",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
